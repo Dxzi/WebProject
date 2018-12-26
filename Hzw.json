@@ -1,0 +1,39 @@
+{
+  "members" : [
+    {
+      "mcName" : "明日将近",
+      "sName" : "东方神起",
+      "album" : "海贼王",
+	  "mURL" : "https://dxzi.github.io/WebProject/Music/h4.mp3",
+      "tURL" : "https://dxzi.github.io/WebProject/Music/photo1.jpg",
+    },
+    {
+      "mcName" : " ココロのちず",
+      "sName" : "BoystyLe",
+      "album" : "海贼王10周年纪念",
+      "mURL" : "https://dxzi.github.io/WebProject/Music/h1.mp3",
+	  "tURL" : "https://dxzi.github.io/WebProject/Music/photo2.jpg",
+    },
+	{
+      "mcName" : "白熱!ゾロ",
+      "sName" : "浜口史郎",
+      "album" : "劇場版ワンピース 『エピソードオブアラバスタ 砂漠の王女と海賊たち』サウンドトラック",
+      "mURL" : "https://dxzi.github.io/WebProject/Music/h2.mp3",
+	  "tURL" : "https://dxzi.github.io/WebProject/Music/photo3.jpg",
+    },
+	{
+      "mcName" : "追いつめられた",
+      "sName" : "浜口史郎",
+      "album" : "Onepiece Music & Song Colletio",
+      "mURL" : "https://dxzi.github.io/WebProject/Music/h3.mp3",
+	  "tURL" : "https://dxzi.github.io/WebProject/Music/photo4.jpg",
+    },
+	{
+      "mcName" : "ビンクスの酒",
+      "sName" : "麦わらの一味",
+      "album" : "海贼王10周年纪念",
+      "mURL" : "https://dxzi.github.io/WebProject/Music/h5.mp3",
+	  "tURL" : "https://dxzi.github.io/WebProject/Music/photo5.jpg",
+    }
+  ]
+}
